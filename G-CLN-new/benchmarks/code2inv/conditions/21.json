@@ -1,0 +1,1 @@
+{"preconds": ["(= x 0)", "(= m 0)", "(>= n 2)"], "predicate": "( < x 200 )", "postcondition": {"ifs": [], "assert": "( >= (* 2 x) m )"}}

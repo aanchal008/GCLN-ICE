@@ -1,0 +1,1 @@
+(and (= y 1) ( not (not (= i j))) )

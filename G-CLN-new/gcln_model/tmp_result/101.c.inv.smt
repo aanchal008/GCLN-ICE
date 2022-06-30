@@ -1,0 +1,1 @@
+(or ( not (not (= x n))) (or ( < x n ) ( < n 0 )) )
